@@ -1,3 +1,4 @@
+# Script to Add 2 Numbers using Python by receiving Input from Runtime.
 
 a=int(input("Enter the First Number :"))
 b=int(input("Enter the Second Number :"))
