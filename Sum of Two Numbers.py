@@ -10,6 +10,6 @@ print("The sum of {} amd {} is {}".format(a,b,a+b))
 
 #Adding Watsapp Status Code
 
-#Attchments (Audio,Video,Documents)
+#Attchments (Audio,Video,Images, Documents)
 
 #Adding Group Feature for 200 users
